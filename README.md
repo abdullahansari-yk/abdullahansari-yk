@@ -14,5 +14,5 @@ It took me a lot of time to learn these things, now I enjoy them:
 
  connect with me
  
-<a href="(https://x.com/Xplorer_Abdul">X</a>
-<a href="https://www.linkedin.com/in/abdullah-ansari-38179328b/">LinkedIn</a> 
+<a href="https://x.com/Xplorer_Abdul" target="_blank">X</a>
+<a href="https://www.linkedin.com/in/abdullah-ansari-38179328b/" target="_blank">LinkedIn</a> 

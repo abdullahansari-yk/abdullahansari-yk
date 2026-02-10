@@ -10,6 +10,7 @@ It took me a lot of time to learn these things, now I enjoy them:
 - Node
 - and more...
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYwb8N0X8HtrrEu_Gq6EVIr-88udJRPyH-zw&s" alt="itachi"/>
 
 
  connect with me

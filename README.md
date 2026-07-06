@@ -11,7 +11,7 @@ It took me a lot of time to learn these things, now I enjoy them:
 - and more...
 
 ## visitor count 
-<img src="https://count.getloli.com/get/@abdullahansari-yk?theme=booru-koe" />
+<img src="https://count.getloli.com/get/@abdullahansari-yk?theme=booru-r6gdrawfriends" />
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYwb8N0X8HtrrEu_Gq6EVIr-88udJRPyH-zw&s" alt="itachi"/>
 
